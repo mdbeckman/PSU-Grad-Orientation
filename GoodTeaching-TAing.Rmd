@@ -1,0 +1,210 @@
+---
+title: 'Intro to Good Teaching Practices'
+author: "Dr. Matthew Beckman (mdb268@psu.edu)"
+date: "August 16, 2017"
+output:
+  slidy_presentation: default
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Outline
+
+#### Part 1: Good teaching (TA-ing)
+  
+  - Personal experiences  
+  - Best practices
+
+#### Part 2: Being a good teacher (TA)
+  
+  - Running Labs
+  - Office Hours
+  - Student Email 
+  - Grading 
+  - General Tips (everyone) 
+
+## Part 1: Good teaching (TA-ing)
+
+#### How do you think you learn most efficiently?? 
+
+## How do you think you learn most efficiently?? 
+
+They way *you* learn most efficiently isn't optimal for *everyone* ... and maybe not even most
+
+## ASA's GAISE Guidelines
+
+- citation, link, QR code
+- Recommendations
+- Action steps 
+
+
+## Small Group Discussion
+
+- Break into groups of 3-5 with at least one experienced TA in each group if possible.
+- Each group will be assigned one (or two) of the following discussion topics:  
+    - Running Labs
+    - Office Hours
+    - Student Email 
+    - Grading 
+    - General Tips (everyone) 
+- Spend a few minutes making a list of tips & recommendations. (If you haven't been a TA or instructor before, think about what your own TA's & instructors have done well)
+
+## Running Labs
+
+
+## Running Labs
+
+- Work through lab in advance
+- Walk around and engage with students (especially when you aren't presenting)
+- Help them learn how to debug for themselves
+- Encourage collaboration
+- Be approachable
+
+## Office Hours 
+
+
+## Office Hours 
+
+- Be familiar with current course material in advance (topics, terminology, notation…)  
+- The goal is learning, not just correct answers
+    - Don’t just give answers: give guidance as needed to help them figure it out
+    - Be patient and try never to take their pencil or paper from them
+- Encourage students to work together
+- Use the board (Better yet have students use the board if possible)
+- Concrete examples help when explaining concepts (draw a picture, show them an example in the book, etc)
+
+## Student email 
+
+
+## Student email 
+
+- Make sure students know your email and know they can contact you
+- Respond in a timely manner (within 24 hours)
+- Email is best for short, straightforward replies – don’t drive yourselves crazy!
+- For longer subject matter questions, give a short remark and refer them to office hours
+- Don’t let emails go unanswered
+
+
+## Grading
+
+
+## Grading
+
+- Be fair & consistent
+    - use a predetermined rubric, checklist, etc. with predetermined criteria associated with point values whenever possible... save this so you can show students how they were graded
+    - grade one problem (or page) for the whole class, then the next problem (or page) for the whole class, and so on
+- Provide useful feedback; help them learn from their mistakes
+- Stay in touch with the instructor
+- Keep a document of common mistakes (and feedback)
+- Try to be efficient/timely
+
+
+## Running a class
+
+- Active learning: 15 minute rule  
+    - no more than 15 minutes should go by without students doing something active
+- Use examples: 2 example rule
+    - for each topic: you do an example (guided practice), then have students do an example (independent practice)
+- Teach at the right level
+    - challenge students, but make sure they are keeping up
+- Use real data with a context rather than artificial data wherever possible
+- Emphasize concepts, not just calculations
+
+
+## General
+
+
+## General
+
+- Be friendly & approachable
+- Be nice but in charge
+- Always treat students with respect
+- Care about your students and sincerely want them to succeed
+- Smile a lot
+
+## Additional Resources
+
+- <http://www.personal.psu.edu/klm47/OnlineResources.pdf>
+- (see handout)
+
+
+\newpage
+
+# Online Resources for Teaching Statistics
+
+## GENERAL 
+
+#### Consortium for the Advancement of Undergraduate Statistics Education (CAUSE)
+
+<http://www.causeweb.org> (Now hosted by Penn State!)
+
+*The resources tab provides lots of useful materials sorted by topic, such as applets, cartoons, powerpoint slides, tutorials, data, suggested interactive activities, and more.*
+
+#### ASA’s Collection of Useful Links
+
+<https://www.amstat.org/education/resourcesforundergradteachers.cfm>
+
+*Useful links for undergraduate teachers of statistics.  Clicking on “Useful Web Sites for Teachers” will bring up many more useful links.*
+
+## DATA
+
+#### Chance News Wiki:
+<http://test.causeweb.org/wiki/chance/index.php/Main_Page>
+
+*Reviews current stories in the news that involve probability or statistical concepts.*
+
+#### Chance Magazine’s “Taking a Chance in the Classroom”
+
+<http://chance.amstat.org/category/columns/taking-a-chance-in-the-classroom/>
+
+*Datasets and corresponding papers with suggestions classroom use.  ASA login required.*
+
+
+#### Journal of Statistics Education Data Archive
+
+<http://www.amstat.org/publications/jse/jse_data_archive.htm> 
+
+*More data, although not sorted by statistical topic so a bit harder to find appropriate data.*
+
+#### Robin Lock’s Website: 
+
+<http://it.stlawu.edu/~rlock/maa51/data.html>
+
+*Links to other data sources*
+
+#### Data and Story Library (DASL)  
+
+<http://lib.stat.cmu.edu/DASL/>
+
+*Lots of real data, searchable by real-world topic or statistical method.*
+
+#### StatLib – Datasets Archive
+<http://lib.stat.cmu.edu/datasets/>
+
+*One of the original sources for archived data*
+
+
+## APPLETS
+  
+#### Lock^5^ StatKey
+
+<http://www.lock5stat.com/statkey>
+
+*Sampling distributions, bootstrapping, randomization tests, theoretical distribution “tables”*
+
+#### onlinestatbook.com
+
+<http://onlinestatbook.com/stat_sim/index.html>
+
+*Lots of applets, all searchable by statistical topic.*
+
+#### Rossman and Chance Applets
+
+<http://www.rossmanchance.com/applets/>
+
+*Website for applets, many of which coincide with interactive activities.*
+
+

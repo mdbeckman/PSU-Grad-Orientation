@@ -1,0 +1,91 @@
+---
+title: "Teaching Resources"
+author: "Dr. Matthew Beckman"
+date: "8/15/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Online Resources for Teaching Statistics
+
+## GENERAL 
+
+#### Guidelines for Assessment and Instruction in Statistics Education (GAISE)
+2016 GAISE College Report: [http://www.amstat.org/education/gaise](http://www.amstat.org/education/gaise)
+*Recommended best practices for Statistics Education.  Short description of 6 recommendations accompanied by concrete implementation strategies, sample resources, references, etc.*
+
+#### Consortium for the Advancement of Undergraduate Statistics Education (CAUSE)
+
+<http://www.causeweb.org> (Now hosted by Penn State!)
+
+*The resources tab provides lots of useful materials sorted by topic, such as applets, cartoons, powerpoint slides, tutorials, data, suggested interactive activities, and more.*
+
+#### ASA’s Collection of Useful Links
+
+<https://www.amstat.org/education/resourcesforundergradteachers.cfm>
+
+*Useful links for undergraduate teachers of statistics.  Clicking on “Useful Web Sites for Teachers” will bring up many more useful links.*
+
+## DATA
+
+#### Chance News Wiki:
+<http://test.causeweb.org/wiki/chance/index.php/Main_Page>
+
+*Reviews current stories in the news that involve probability or statistical concepts.*
+
+#### Chance Magazine’s “Taking a Chance in the Classroom”
+
+<http://chance.amstat.org/category/columns/taking-a-chance-in-the-classroom/>
+
+*Datasets and corresponding papers with suggestions classroom use.  ASA login required.*
+
+
+#### Journal of Statistics Education Data Archive
+
+<http://www.amstat.org/publications/jse/jse_data_archive.htm> 
+
+*More data, although not sorted by statistical topic so a bit harder to find appropriate data.*
+
+#### Robin Lock’s Website: 
+
+<http://it.stlawu.edu/~rlock/maa51/data.html>
+
+*Links to other data sources*
+
+#### Data and Story Library (DASL)  
+
+<http://lib.stat.cmu.edu/DASL/>
+
+*Lots of real data, searchable by real-world topic or statistical method.*
+
+#### StatLib – Datasets Archive
+<http://lib.stat.cmu.edu/datasets/>
+
+*One of the original sources for archived data*
+
+
+## APPLETS
+  
+#### Lock^5^ StatKey
+
+<http://www.lock5stat.com/statkey>
+
+*Sampling distributions, bootstrapping, randomization tests, theoretical distribution “tables”*
+
+#### onlinestatbook.com
+
+<http://onlinestatbook.com/stat_sim/index.html>
+
+*Lots of applets, all searchable by statistical topic.*
+
+#### Rossman and Chance Applets
+
+<http://www.rossmanchance.com/applets/>
+
+*Website for applets, many of which coincide with interactive activities.*
+
+
