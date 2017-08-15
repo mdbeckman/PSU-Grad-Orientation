@@ -1,21 +1,25 @@
 ---
 title: "Teaching Resources"
 author: "Dr. Matthew Beckman"
-date: "8/15/2017"
-output: html_document
+date: ''
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 # Online Resources for Teaching Statistics
 
-## GENERAL 
+#### Website with materials from today's session:  [https://mdbeckman.github.io/PSU-Grad-Orientation/](https://mdbeckman.github.io/PSU-Grad-Orientation/)
+
+## General Resources 
 
 #### Guidelines for Assessment and Instruction in Statistics Education (GAISE)
 2016 GAISE College Report: [http://www.amstat.org/education/gaise](http://www.amstat.org/education/gaise)
+
 *Recommended best practices for Statistics Education.  Short description of 6 recommendations accompanied by concrete implementation strategies, sample resources, references, etc.*
 
 #### Consortium for the Advancement of Undergraduate Statistics Education (CAUSE)
@@ -30,7 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *Useful links for undergraduate teachers of statistics.  Clicking on “Useful Web Sites for Teachers” will bring up many more useful links.*
 
-## DATA
+## Data Repositories
 
 #### Chance News Wiki:
 <http://test.causeweb.org/wiki/chance/index.php/Main_Page>
@@ -68,7 +72,7 @@ knitr::opts_chunk$set(echo = TRUE)
 *One of the original sources for archived data*
 
 
-## APPLETS
+## Applets
   
 #### Lock^5^ StatKey
 
