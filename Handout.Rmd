@@ -71,6 +71,22 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *One of the original sources for archived data*
 
+#### Lots more...
+
+<https://data.cityofnewyork.us/>
+
+<https://github.com/fivethirtyeight/data>
+
+<http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets>
+
+<http://www.icpsr.umich.edu/icpsrweb/ICPSR/>
+
+<https://www.springboard.com/blog/free-public-data-sets-data-science-project/>
+
+<https://www.dataquest.io/blog/free-datasets-for-projects/>
+
+[Even more... (link)](http://bfy.tw/DOFS)
+
 
 ## Applets
   
