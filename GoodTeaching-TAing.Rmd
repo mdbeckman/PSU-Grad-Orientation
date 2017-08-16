@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 #### Part 1: Good teaching (TA-ing)
   
   - (your) Personal experiences  
-  - Best practices
+  - ASA endorsed Guidelines for Assessment & Instruction in Statistics Education (GAISE, 2016)
 
 #### Part 2: Being a good teacher (TA)
   
