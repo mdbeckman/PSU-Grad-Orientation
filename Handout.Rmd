@@ -1,10 +1,10 @@
 ---
 title: "Teaching Resources"
-author: "Dr. Matthew Beckman"
+author: "Matthew Beckman"
 date: ''
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}

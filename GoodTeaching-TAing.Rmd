@@ -1,12 +1,15 @@
 ---
-title: 'Intro to Good Teaching Practices'
-author: "Dr. Matthew Beckman (mdb268@psu.edu)"
+title: 'Intro to Effective Teaching (TA) Practices'
+author: | 
+  | Matthew Beckman
+  | Director of Undergraduate Programs | Department of Statistics
+
 date: |
-  | August 16, 2017
+  | August 15, 2018
   | <br>
   | <br>
-  | ![](teachersTtest.png)
-  | [https://xkcd.com/1347/](https://xkcd.com/1347/)
+  | ![](xkcdCorrelation.png)
+  | [https://m.xkcd.com/552/](https://m.xkcd.com/552/)
 output:
   slidy_presentation: default
 
@@ -20,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### Part 1: Good teaching (TA-ing)
   
-  - (your) Personal experiences  
+  - How do you learn most efficiently?? 
   - ASA endorsed Guidelines for Assessment & Instruction in Statistics Education (GAISE, 2016)
 
 #### Part 2: Being a good teacher (TA)
@@ -32,36 +35,14 @@ knitr::opts_chunk$set(echo = FALSE)
   - General Tips (everyone) 
 
 
-#### Website with session content:
-![](ta_training_qr_code.jpg)
 
-
-## Part 1: Good teaching (TA-ing)
+## How do you learn most efficiently?? 
 
 <br>
 
-### What have teachers done that has worked best for you?? 
+### The way *you* learn most efficiently may not be optimal for *everyone* ... and **maybe not even most** 
 
-<br>
-
-<br>
-
-<br>
-
-(Here's the same QR code again if I changed slides too quickly...) 
-
-![](ta_training_qr_code.jpg)
-
-
-## What have teachers done that has worked best for you?? 
-
-<br>
-
-### They way *you* learn most efficiently isn't optimal for *everyone* ... and **maybe not even most** 
-
-<br> 
-
-- Some students will learn and succeed no matter how good or bad the teaching is 
+- Some students will learn and succeed no matter how good or bad the teaching 
 - Students in the same course may have very different reasons for being there (producers & consumers)
 - The challenge is generally to optimize the efficiency of teaching & learning so that you are doing the most good for the most students 
 
@@ -69,7 +50,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## ASA's GAISE Guidelines
 
 - This is the latest in several iterations of recommendations for statistics education
-- The document reads with a bias toward introductory courses (because that's the widest audience), but the principles apply readily to more advanced courses
+- The document reads with a bias toward introductory courses (because that's the widest audience), but most principles apply readily to more advanced courses
 - Several appendices with lots of examples, ideas, resources, and references
 
 <br>
@@ -165,26 +146,25 @@ Statistical software, Shiny Apps, Web Applets, etc, are powerful resources to pr
 
 <br> 
 
+#### Assessment of learning, as learning, and for learning (Garfield & Franklin, 2011)
+
 Assessment *of* learning: Measure student learning outcomes [summative]  
 
-Assessment *as* learning: Students should learn from the assessment (feedback, review solutions, etc) [formative]  
+Assessment *as* learning: Informs the trajectory of learning [formative]  
 
-Assessment *for* learning: (you) Use assessments to learn about your class, and modify instruction accordingly [evaluative]  
+Assessment *for* learning: Both students (you) Use assessments to learn about your class, and modify instruction accordingly [evaluative]  
 
-<br> 
 
-![](TAS assessment.png)
 
 ## Part 1: Good teaching (TA-ing)
 
-- Use examples: 2 example rule
-    - for each topic: you do an example (guided practice), then have students do an example (independent practice)
-- Teach at the right level
-    - challenge students, but make sure they are keeping up
-- Use real data with a context rather than artificial data wherever possible
-- Emphasize concepts, not just calculations
-
-
+- Student-centered learning
+    - opportunities for students to learn by doing (both guided & independent practice)
+    - Teach at the right level
+        - challenge students, but make sure they are keeping up
+        - *no questions* might be a sign that things are either too easy or too hard
+- Always try to use real data with a context & purpose
+- Emphasize concepts, critical thinking, & problem solving, not just calculations
 
 
 ## Part 2: Being a good teacher (TA)
@@ -222,10 +202,13 @@ Spend a few minutes listing tips & recommendations. If you haven't been a TA or 
 ## Running Labs
 
 - Work through lab in advance
+    - it's okay if you make a mistake
+    - it's not okay to be routinely unprepared
 - Walk around and engage with students (especially when you aren't presenting)
 - Help them learn how to debug for themselves
 - Encourage collaboration
 - Be approachable
+
 
 ## Office Hours 
 
@@ -235,15 +218,19 @@ Spend a few minutes listing tips & recommendations. If you haven't been a TA or 
 4. Grading 
 5. General Tips (everyone) 
 
+
 ## Office Hours 
 
 - Be familiar with current course material in advance (topics, terminology, notation…)  
 - The goal is learning, not just correct answers
-    - Don’t just give answers: give guidance as needed to help them figure it out
-    - Be patient and try never to take their pencil or paper from them
+    - Don’t just give answers
+        - give guidance as needed to help them figure it out
+        - direct them to a solved example in the book or notes 
+    - Be patient... let the student do the writing (computing, etc)
 - Encourage students to work together
 - Use the board (Better yet have students use the board if possible)
 - Concrete examples help when explaining concepts (draw a picture, show them an example in the book, etc)
+
 
 ## Student email 
 
@@ -257,9 +244,9 @@ Spend a few minutes listing tips & recommendations. If you haven't been a TA or 
 
 - Make sure students know your email and know they can contact you
 - Respond in a timely manner (within 24 hours)
-- Email is best for short, straightforward replies – don’t drive yourselves crazy!
-- For longer subject matter questions, give a short remark and refer them to office hours
-- Don’t let emails go unanswered
+- Email is best for short, straightforward replies 
+- For longer subject matter questions, give a short remark and refer them to office hours or a helpful example in the book/notes
+- **Don’t let emails go unanswered**
 
 
 ## Grading
@@ -273,12 +260,15 @@ Spend a few minutes listing tips & recommendations. If you haven't been a TA or 
 ## Grading
 
 - Be fair & consistent
-    - use a predetermined rubric, checklist, etc. with predetermined criteria associated with point values whenever possible... save this so you can show students how they were graded
+    - use a rubric, checklist, etc. with predetermined criteria associated with point values whenever possible... save this so you can show students exactly how they were graded
     - grade one problem (or page) for the whole class, then the next problem (or page) for the whole class, and so on
 - Provide useful feedback; help them learn from their mistakes
 - Stay in touch with the instructor
-- Keep a document of common mistakes (and feedback)
 - Try to be efficient/timely
+- Keep a document of common mistakes (and feedback)
+
+![Rubric example](OpenEnded.png)
+
 
 
 ## General
@@ -289,14 +279,20 @@ Spend a few minutes listing tips & recommendations. If you haven't been a TA or 
 4. Grading 
 5. **General Tips (everyone)** 
 
+
 ## General
 
-- Be friendly & approachable
-- Students will often mirror your demeanor
-    - if you're having fun, it's more fun for them
-    - if you're bored, they are too
-- Be nice but in charge
 - Always treat students with respect
 - Care about your students and sincerely want them to succeed
-- Smile a lot
+- Students will often mirror your demeanor
+- Be friendly & approachable
+- Professional relationship with students
+    - Be kind but in charge
+    - Always maintain a united front with the faculty & TA's
+
+## References
+
+GAISE College Report ASA Revision Committee (2016). *Guidelines for Assessment and Instruction in Statistics Education (GAISE) College Report 2016*, http://www.amstat.org/education/gaise.
+
+Garfield, J. and Franklin, C. (2011). Assessment of learning, for learning, and as learning in statistics education. In C. Batanero, G. Burrill, C. Reading, and A. Rossman (eds.). *Teaching statistics in school mathematics - Challenges for teaching and teacher education: A joint ICMI/IASE Study* (pp. 133-145). New York: Springer.
 
