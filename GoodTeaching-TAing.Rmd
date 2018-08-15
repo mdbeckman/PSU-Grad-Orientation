@@ -21,12 +21,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Outline
 
-#### Part 1: Good teaching (TA-ing)
+#### Part 1: Effective teaching (TA-ing)
   
   - How do you learn most efficiently?? 
   - ASA endorsed Guidelines for Assessment & Instruction in Statistics Education (GAISE, 2016)
 
-#### Part 2: Being a good teacher (TA)
+#### Part 2: Being an effective teacher (TA)
   
   - Running Labs
   - Office Hours
