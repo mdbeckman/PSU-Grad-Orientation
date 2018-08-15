@@ -1,4 +1,4 @@
-# Intro to Good Teaching Practices
+# Intro to Effective Teaching (TA) Practices
 
 ### [Discussion Slides](https://mdbeckman.github.io/PSU-Grad-Orientation/GoodTeaching-TAing.html)
 
@@ -13,5 +13,4 @@
 ### Contact Information:
 
 Dr. Matthew Beckman  
-316A Thomas Building  
-mdb268 [at] psu   
+323F Thomas Building  
