@@ -151,11 +151,11 @@ Statistical software, Shiny Apps, Web Applets, etc, are powerful resources to pr
 
 #### Assessment of learning, as learning, and for learning (Garfield & Franklin, 2011)
 
-Assessment *of* learning: Measure student learning outcomes [summative]  
+Assessment *of* learning [summative]: Measure student learning outcomes   
 
-Assessment *as* learning: Informs the trajectory of learning [formative]  
+Assessment *as* learning [formative]: Informs the trajectory of learning and instruction   
 
-Assessment *for* learning: Both students (you) Use assessments to learn about your class, and modify instruction accordingly [evaluative]  
+Assessment *for* learning [evaluative]:  **Students** use assessments to reflect on their learning strategy; **Instructors/TAs** Use assessments to learn about your class, and modify instruction accordingly   
 
 
 
