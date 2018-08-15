@@ -12,5 +12,6 @@
 
 ### Contact Information:
 
-Dr. Matthew Beckman  
+Matthew Beckman  
+Director of Undergraduate Programs (Statistics)  
 323F Thomas Building  
