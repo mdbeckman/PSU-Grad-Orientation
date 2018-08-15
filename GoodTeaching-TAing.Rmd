@@ -45,6 +45,9 @@ knitr::opts_chunk$set(echo = FALSE)
 - Some students will learn and succeed no matter how good or bad the teaching 
 - Students in the same course may have very different reasons for being there (producers & consumers)
 - The challenge is generally to optimize the efficiency of teaching & learning so that you are doing the most good for the most students 
+- see Garfield & Ben-Zvi (2007) for a review of statistics teaching and learning research 
+
+![](HowLearnStat.png)
 
 
 ## ASA's GAISE Guidelines
@@ -293,6 +296,8 @@ Spend a few minutes listing tips & recommendations. If you haven't been a TA or 
 ## References
 
 GAISE College Report ASA Revision Committee (2016). *Guidelines for Assessment and Instruction in Statistics Education (GAISE) College Report 2016*, http://www.amstat.org/education/gaise.
+
+Garfield, J. and Ben-Zvi, D. (2007). How students learn statistics revisited: A current review of research on teaching and learning statistics. *International Statistical Review 75*(3). 
 
 Garfield, J. and Franklin, C. (2011). Assessment of learning, for learning, and as learning in statistics education. In C. Batanero, G. Burrill, C. Reading, and A. Rossman (eds.). *Teaching statistics in school mathematics - Challenges for teaching and teacher education: A joint ICMI/IASE Study* (pp. 133-145). New York: Springer.
 
