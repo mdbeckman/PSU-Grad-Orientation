@@ -1,5 +1,5 @@
 ---
-title: "Teaching Resources"
+title: "Statistics Education Resources"
 author: "Matthew Beckman"
 date: ''
 output:
@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Online Resources for Teaching Statistics
 
-#### Website with materials from today's session:  [https://mdbeckman.github.io/PSU-Grad-Orientation/](https://mdbeckman.github.io/PSU-Grad-Orientation/)
+#### Website with materials related to today's session:  [https://mdbeckman.github.io/PSU-Grad-Orientation/](https://mdbeckman.github.io/PSU-Grad-Orientation/)
 
 ## General Resources 
 
@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Consortium for the Advancement of Undergraduate Statistics Education (CAUSE)
 
-<http://www.causeweb.org> (Now hosted by Penn State!)
+<http://www.causeweb.org> 
 
 *The resources tab provides lots of useful materials sorted by topic, such as applets, cartoons, powerpoint slides, tutorials, data, suggested interactive activities, and more.*
 
@@ -33,6 +33,13 @@ knitr::opts_chunk$set(echo = TRUE)
 <https://www.amstat.org/education/resourcesforundergradteachers.cfm>
 
 *Useful links for undergraduate teachers of statistics.  Clicking on “Useful Web Sites for Teachers” will bring up many more useful links.*
+
+#### Statistics Education Blogs
+
+- Teaching with Simulation-Based Inference: <https://www.causeweb.org/sbi/>
+- Teach Data Science: <https://teachdatascience.com/intro/>
+- Ask Good Questions: <https://askgoodquestions.blog/>
+
 
 ## Data Repositories
 
